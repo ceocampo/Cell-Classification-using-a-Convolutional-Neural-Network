@@ -14,4 +14,4 @@ This dataset was taken from the NIH Website: https://ceb.nlm.nih.gov/repositorie
 
 Sample images of malaria-infected cells: 
 
-<img width="400" alt="Iris Versicolor" src="https://www.researchgate.net/profile/Mahdy_Rahman_Chowdhury_Mahdy/publication/334669002/figure/fig2/AS:784395963228161@1564025979768/Samples-drawn-from-NIH-Malaria-dataset-which-are-malaria-infected-parasite-red-blood.jpg">
+<img width="700" alt="Iris Versicolor" src="https://www.researchgate.net/profile/Mahdy_Rahman_Chowdhury_Mahdy/publication/334669002/figure/fig2/AS:784395963228161@1564025979768/Samples-drawn-from-NIH-Malaria-dataset-which-are-malaria-infected-parasite-red-blood.jpg">
