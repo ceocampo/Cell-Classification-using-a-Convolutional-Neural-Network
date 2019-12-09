@@ -10,4 +10,4 @@ A model using a convolutional neural network was created to predict whether or n
 
 The project is located in the .ipynb notebook file and the library requirements/versions used for this project are located in the requirements.txt file. The model is also attached as Cell_Classification_Model.h5.
 
-This Dataset is taken from the NIH Website: https://ceb.nlm.nih.gov/repositories/malaria-datasets/
+This dataset was taken from the NIH Website: https://ceb.nlm.nih.gov/repositories/malaria-datasets/
