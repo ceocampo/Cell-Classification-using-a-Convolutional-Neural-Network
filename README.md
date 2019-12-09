@@ -12,6 +12,11 @@ The project is located in the .ipynb notebook file and the library requirements/
 
 This dataset was taken from the NIH Website: https://ceb.nlm.nih.gov/repositories/malaria-datasets/
 
-Sample images of malaria-infected cells used in this model: 
+Images of malaria-infected cells: 
 
 <img width="800" alt="Iris Versicolor" src="https://www.researchgate.net/profile/Mahdy_Rahman_Chowdhury_Mahdy/publication/334669002/figure/fig2/AS:784395963228161@1564025979768/Samples-drawn-from-NIH-Malaria-dataset-which-are-malaria-infected-parasite-red-blood.jpg">
+
+Images of healthy uninfected cells: 
+
+<img width="800" alt="Iris Versicolor" src="https://www.researchgate.net/profile/Mahdy_Rahman_Chowdhury_Mahdy/publication/334669002/figure/fig1/AS:784395963232262@1564025979734/Samples-drawn-from-NIH-Malaria-dataset-which-are-uninfected-red-blood-cells-It-is-seen.jpg">
+
