@@ -11,3 +11,7 @@ A model using a convolutional neural network was created to predict whether or n
 The project is located in the .ipynb notebook file and the library requirements/versions used for this project are located in the requirements.txt file. The model is also attached as Cell_Classification_Model.h5.
 
 This dataset was taken from the NIH Website: https://ceb.nlm.nih.gov/repositories/malaria-datasets/
+
+Sample images of malaria-infected cells: 
+
+<img width="400" alt="Iris Versicolor" src="https://www.researchgate.net/profile/Mahdy_Rahman_Chowdhury_Mahdy/publication/334669002/figure/fig2/AS:784395963228161@1564025979768/Samples-drawn-from-NIH-Malaria-dataset-which-are-malaria-infected-parasite-red-blood.jpg">
