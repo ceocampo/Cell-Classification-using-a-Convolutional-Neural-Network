@@ -8,4 +8,4 @@ A model using a convolutional neural network was created to predict whether or n
 - Data augmentation was performed to increase the number of samples we have before feeding them into our model for training.
 - The model was then applied to a randomly selected uninfected and infected cell image.
 
-The project is located in the .ipynb notebook file and the library requirements/versions used for this project are located in the requirements.txt file.
+The project is located in the .ipynb notebook file and the library requirements/versions used for this project are located in the requirements.txt file. The model is also attached as Cell_Classification_Model.h5.
