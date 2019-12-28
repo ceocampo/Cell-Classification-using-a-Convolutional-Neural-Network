@@ -12,6 +12,8 @@ The project is located in the .ipynb notebook file and the library requirements/
 
 This dataset was taken from the NIH Website: https://ceb.nlm.nih.gov/repositories/malaria-datasets/
 
+<b>Technologies used for this project:</b> python, pandas, numpy, matplotlib, seaborn, scikit-learn tensorflow, keras.
+
 # Sample Images
 
 <b>Images of malaria-infected cells</b> 
